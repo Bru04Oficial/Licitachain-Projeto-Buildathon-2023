@@ -1,7 +1,5 @@
 # Licitachain-Projeto-Buildathon-2023
 
-# LicitaChain - DigiFi 2023
-
 Texto de Apresentação do projeto  
 
 O Licitachain é um projeto que surge no evento Digifi organizado pela Ethereum Brasil e a Fenasbac, realizado em Setembro de 2023.
